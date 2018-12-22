@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1545511479 source:/home/shakedz/Desktop/noga/c projects/Complex/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"complex.h"
+	<ctype.h>
+
+1545506486 /home/shakedz/Desktop/noga/c projects/Complex/complex.h
+
+1545505917 source:/home/shakedz/Desktop/noga/c projects/Complex/complex.c
+	"complex.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
